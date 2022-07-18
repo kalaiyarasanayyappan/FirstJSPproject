@@ -9,16 +9,16 @@
 <body>
 <h1>Welcome </h1>
 <div>
-<a href="AddEmployee.jsp">ADD EMPLOYEE</a>
+<a href="empadd.html">ADD EMPLOYEE</a>
 </div>
 <div>
-<a href="DeleteEmployee.jsp">Delete  Employee</a>
+<a href="empDelete.html">Delete  Employee</a>
 </div>
 <div>
-<a href="UpdateEmployee.jsp">update Employee</a>
+<a href="empUpdate.html">update Employee</a>
 </div>
 <div>
-<a href="Employees">Get All Employees</a>
+<a href="getemp.html">Get All Employees</a>
 </div>
 </body>
 </html>
